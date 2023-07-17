@@ -10,3 +10,8 @@ STRUTTURE DATI:
 -hashTable
 
 ALGORITMI:
+-Selection Sort
+-Insertion Sort
+-Bubble Sort
+-Merge Sort
+-Quick Sort
